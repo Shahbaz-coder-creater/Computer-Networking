@@ -1,1 +1,110 @@
 
+# 📡 Computer Networking Notes
+
+Ye repository mera personal learning journal hai jaha main **Computer Networks** ke topics ko step-by-step padh kar detailed notes (with diagrams) bana raha hu. Har topic ek alag file/folder me milega, jisme concepts ko point-wise aur example ke saath explain kiya gaya hai.
+
+> 🎯 **Goal:** Computer Networks ke fundamentals ko strong karna — OSI/TCP-IP models se lekar Subnetting, Routing aur Application Layer protocols tak.
+
+---
+
+## 📚 Topics Covered (Roadmap)
+
+| # | Topic | Status |
+|---|-------|--------|
+| 1 | Introduction to Computer Networks (Evolution of Computer Networks) | ✅ Done |
+| 2 | OSI Model & TCP/IP Model | ✅ Done |
+| 3 | Network Topologies | ✅ Done |
+| 4 | IP Addressing (IPv4 & IPv6) | ✅ Done |
+| 5 | Classful Addressing (Class A–E) | ✅ Done |
+| 6 | Subnetting & CIDR | 🔜 Upcoming |
+| 7 | Network ID, Host ID & Broadcast Address |✅ Done|
+| 8 | Topology + VPN | 🔜 Upcoming |
+| 9 | Dark Web and Internetworking | 🔜 Upcoming |
+| 10 | Transport Layer (TCP/UDP) | 🔜 Upcoming |
+| 11 | Routing & Switching Basics | 🔜 Upcoming |
+| 12 | DNS, DHCP & Application Layer Protocols | 🔜 Upcoming |
+
+**Progress: 4 / 12 topics completed** 🚀
+
+---
+
+## 📁 Repository Structure
+
+```
+computer-networking-notes/
+│
+├── 01-Introduction-to-Computer-Networks/
+│   └── notes.md
+│
+├── 02-OSI-and-TCPIP-Model/
+│   └── notes.md
+│
+├── 03-Network-Topologies/
+│   └── notes.md
+│
+├── 04-IP-Addressing/
+│   └── IP_Addressing_Notes.pdf
+│
+├── 05-Classful-Addressing/          # coming soon
+├── 06-Subnetting-and-CIDR/          # coming soon
+├── 07-NetworkID-HostID-Broadcast/   # coming soon
+├── 08-Topology-and-VPN/             # coming soon
+├── 09-DarkWeb-and-Internetworking/  # coming soon
+├── 10-Transport-Layer-TCP-UDP/      # coming soon
+├── 11-Routing-and-Switching/        # coming soon
+├── 12-DNS-DHCP-Application-Layer/   # coming soon
+│
+└── README.md
+```
+
+> Note: Folder names apne hisaab se adjust kar sakte ho — jaise jaise naya topic complete hoga, uska folder aur usme notes (`.md` / `.pdf`) add kar dena.
+
+---
+
+## ✅ Topics Completed So Far
+
+### 1️⃣ Introduction to Computer Networks
+Computer networking ki basics — network kya hota hai, evolution of computer networks, uses aur types of networks (LAN, MAN, WAN).
+
+### 2️⃣ OSI Model & TCP/IP Model
+7-layer OSI model aur 4-layer TCP/IP model ka detailed comparison — har layer ka role, protocols aur real-world mapping.
+
+### 3️⃣ Network Topologies
+Bus, Star, Ring, Mesh, Tree aur Hybrid topology — structure, advantages/disadvantages ke saath diagrams.
+
+### 4️⃣ IP Addressing (IPv4 & IPv6)
+IPv4 (32-bit) vs IPv6 (128-bit), Network ID/Host ID, Address Classes (A–E), loopback & broadcast address, real-world examples — diagrams ke saath.
+
+---
+
+## 🔜 Coming Up Next
+
+- **Classful Addressing (Class A–E)** — deep dive into class ranges & binary derivation
+- **Subnetting & CIDR** — subnet mask calculation, CIDR notation, VLSM
+- **Network ID, Host ID & Broadcast Address** — practical numericals
+- **Topology + VPN** — how VPNs work over different topologies
+- **Dark Web and Internetworking** — internetworking devices, dark web basics
+- **Transport Layer (TCP/UDP)** — connection-oriented vs connectionless, flow/error control
+- **Routing & Switching Basics** — static/dynamic routing, switching techniques
+- **DNS, DHCP & Application Layer Protocols** — how domain resolution & dynamic IP allocation work
+
+---
+
+## 🛠️ How I'm Building These Notes
+
+- Lecture notes ko organize karke point-wise explanation
+- Har topic me relevant **diagrams** included
+- Real-world examples jaha applicable ho
+- Notes `.md` ya `.pdf` format me maintained
+
+---
+
+## ⭐ Contribution / Feedback
+
+Ye ek personal learning repo hai, lekin agar koi galti mile ya improvement suggest karni ho, feel free to open an issue ya PR!
+
+---
+
+## 📌 Status
+
+🟢 **Actively updated** — is repo me naye topics regularly add kiye jaenge jaise jaise course aage badhega.
