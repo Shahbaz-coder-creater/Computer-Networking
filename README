@@ -1,4 +1,3 @@
-
 # 📡 Computer Networking Notes
 
 Ye repository mera personal learning journal hai jaha main **Computer Networks** ke topics ko step-by-step padh kar detailed notes (with diagrams) bana raha hu. Har topic ek alag file/folder me milega, jisme concepts ko point-wise aur example ke saath explain kiya gaya hai.
@@ -15,9 +14,9 @@ Ye repository mera personal learning journal hai jaha main **Computer Networks**
 | 2 | OSI Model & TCP/IP Model | ✅ Done |
 | 3 | Network Topologies | ✅ Done |
 | 4 | IP Addressing (IPv4 & IPv6) | ✅ Done |
-| 5 | Classful Addressing (Class A–E) | ✅ Done |
+| 5 | Classful Addressing (Class A–E) | 🔜 Upcoming |
 | 6 | Subnetting & CIDR | 🔜 Upcoming |
-| 7 | Network ID, Host ID & Broadcast Address |✅ Done|
+| 7 | Network ID, Host ID & Broadcast Address | 🔜 Upcoming |
 | 8 | Topology + VPN | 🔜 Upcoming |
 | 9 | Dark Web and Internetworking | 🔜 Upcoming |
 | 10 | Transport Layer (TCP/UDP) | 🔜 Upcoming |
